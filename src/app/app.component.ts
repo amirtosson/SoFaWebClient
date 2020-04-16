@@ -28,6 +28,8 @@ export class AppComponent {
     {
         const headers = new HttpHeaders(
         {
+
+            
             'Content-Type': 'text/plain',
             'Access-Control-Allow-Origin': '*'
         });
